@@ -3,6 +3,8 @@ layout: post
 title: Time to upgrade Python!
 published: true
 ---
+_On January 1st 2019, OpenFisca will stop maintain backward compatibility with Python 2.7. From then, OpenFisca packages will be exclusively based on Python 3.7, or more recent._
+
 **_\[English version below]_**
 
 
