@@ -42,7 +42,7 @@ See you soon!
 
 The OpenFisca team
 
----
+**_================== VERSION FRANÇAISE =======================_**
 
 Au 1er janvier 2019, OpenFisca cessera de maintenir sa rétro-compatibilité avec Python 2.7. Les packages OpenFisca se baseront exclusivement sur Python 3.7, ou plus récent.
 
